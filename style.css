@@ -10,7 +10,7 @@ html {
     box-sizing: border-box;
 }
 
-h1{
+h2{
     font-size: 1.3rem;
     margin: 0.5em 0;
     font-weight: 700;
@@ -68,7 +68,7 @@ body {
     flex-direction: column;
     justify-content: space-around;
 }
-.community h1 {
+.community h2 {
     color:hsl(218, 22%, 67%);
 }
 
